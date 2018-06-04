@@ -46,4 +46,3 @@ driver.findElement(By.id("gb_71")).click();
 
 }
 
-[/code]
